@@ -19,7 +19,7 @@ class App extends Component {
 		return (
 			<div className="App" style={{ backgroundColor: 'black' }}>
 				<div style={{ fontSize: '28px', color: 'white', justifyContent: 'center', display: 'flex', alignItems: 'baseline' }}>
-					PUL Tool Page
+					Ouidou tool page
 					<span style={{ fontSize: '10px', marginLeft: '10px' }}> BY BEBELOU </span>
 				</div>
 				<div style={{ display: 'flex', flexWrap: 'wrap' }}>
